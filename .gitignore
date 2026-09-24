@@ -1,0 +1,4 @@
+.env
+workspace/token.json
+workspace/team_state.json
+__pycache__/
